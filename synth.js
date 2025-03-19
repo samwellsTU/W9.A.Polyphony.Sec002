@@ -46,7 +46,7 @@ const startNote = function (note) {
   }
 };
 
-/**
+/***
  * @function stopNote
  * @description Stops a currently playing note and removes it from activeVoices.
  * @param {number} note - The MIDI note number.
